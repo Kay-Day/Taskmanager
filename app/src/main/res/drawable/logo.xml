@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Nền tròn -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M54,0A54,54 0 1,1 0,54A54,54 0 1,1 54,0z"/>
+
+    <!-- Biểu tượng danh sách công việc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30h32v4H38zM38,52h32v4H38zM38,74h32v4H38z"/>
+
+    <!-- Dấu tích hoàn thành -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,30l-8,8l4,4l8,-8l8,8l4,-4l-12,-12z"/>
+
+    <!-- Dấu tích thứ hai -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,52l-8,8l4,4l8,-8l8,8l4,-4l-12,-12z"/>
+
+    <!-- Dấu tích thứ ba -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,74l-8,8l4,4l8,-8l8,8l4,-4l-12,-12z"/>
+
+</vector>
